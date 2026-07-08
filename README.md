@@ -1,16 +1,76 @@
-# React + Vite
+# 📝 Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Web App Explorer is a user-friendly web application where users can explore various web applications, view their details, add apps to an installation list, remove installed apps, and filter applications by categories.
 
-Currently, two official plugins are available:
+This project demonstrates:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Dynamic data rendering
+* Component-based UI development
+* Installation list management
+* Category-based filtering
+* Client-side routing
+* Responsive web design
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+* HTML5
+* CSS3
+* JavaScript
+* React
+* React Router DOM
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+# ✨ Features
+
+* 📱 Browse various web applications
+* 📄 View detailed application information
+* ➕ Add apps to the installation list
+* ❌ Remove apps from the installation list
+* 🏷️ Filter applications by categories
+* ⚡ Dynamic and interactive user interface
+* 📱 Responsive design for all devices
+
+---
+
+# 📦 Dependencies
+
+* React
+* React DOM
+* React Router DOM
+* Vite
+
+---
+
+# 🚀 How to Run the Project Locally
+
+1. Go to the repository and click on the **Code** button, then copy the repository link.
+
+2. Open Command Prompt and run:
+
+```bash
+git clone <repository-link>
+```
+
+3. Open the project folder in VS Code
+
+cd project-folder-name
+code .
+
+4. Install dependencies:
+
+```bash
+npm install
+```
+
+5. Start the development server:
+
+```bash
+npm run dev
+```
+
+6. Open the local URL shown in the terminal.
+
+🎉 Done! The project is now ready to run locally.
