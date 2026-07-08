@@ -1,0 +1,254 @@
+[
+  {
+    "image": "/images/hero_img.jpg",
+    "title": "Muslim Pro: Quran Athan Prayer",
+    "companyName": "Bitsmedia Pte Ltd",
+    "id": 1,
+    "description": "বিশ্বের সবচেয়ে জনপ্রিয় মুসলিম অ্যাপ। এতে রয়েছে সঠিক নামাজের সময়, আজান নোটিফিকেশন, সম্পূর্ণ কোরআন মাজীদ, কিবলা কম্পাস এবং যাকাত ক্যালকুলেটর।",
+    "size": 95,
+    "reviews": "1M",
+    "ratingAvg": 4.6,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 450000 },
+      { "name": "5 star", "count": 1780000 }
+    ]
+  },
+  {
+    "image": "/images/hero_img.jpg",
+    "title": "Al Quran (Tafsir & by Word)",
+    "companyName": "Greentech Apps Foundation",
+    "id": 2,
+    "description": "শব্দে শব্দে কোরআন শেখার জন্য সেরা অ্যাপ। এতে বিভিন্ন ভাষায় তাফসির, অডিও তেলাওয়াত এবং নোট নেওয়ার সুবিধা রয়েছে।",
+    "size": 45,
+    "reviews": "99K",
+    "ratingAvg": 4.9,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 12000 },
+      { "name": "5 star", "count": 100000 }
+    ]
+  },
+  {
+    "image": "/images/hero_img.jpg",
+    "title": "iPray: Prayer Times & Qibla",
+    "companyName": "GuidedWays.com",
+    "id": 3,
+    "description": "খুবই সুন্দর ইন্টারফেসের একটি অ্যাপ যা আপনাকে সঠিক নামাজের সময় এবং কিবলা নির্দেশ করে। এর ডিজাইন খুবই চমৎকার।",
+    "size": 60,
+    "reviews": "15K",
+    "ratingAvg": 4.7,
+    "downloads": "1M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "image": "/images/hero_img.jpg",
+    "title": "Hisnul Muslim",
+    "companyName": "Greentech Apps",
+    "id": 4,
+    "description": "দৈনন্দিন জীবনের প্রয়োজনীয় সকল দোয়া ও জিকিরের ভাণ্ডার। কোরআন ও সুন্নাহ ভিত্তিক বিশুদ্ধ দোয়া এখানে পাওয়া যায়।",
+    "size": 15,
+    "reviews": "45K",
+    "ratingAvg": 4.8,
+    "downloads": "1M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 35700 }
+    ]
+  },
+  {
+    "image": "images/hero_img.jpg",
+    "title": "Quran Pro",
+    "companyName": "Quanticapps",
+    "id": 5,
+    "description": "বিশ্বের সেরা কারীদের অডিও তেলাওয়াত শোনার জন্য এটি একটি অসাধারণ অ্যাপ। অফলাইনে শোনার জন্য ডাউনলোড সুবিধাও আছে।",
+    "size": 80,
+    "reviews": "85K",
+    "ratingAvg": 4.7,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 57000 }
+    ]
+  },
+  {
+    "image": "/images/hero_img.jpg",
+    "title": "Tarteel: Quran Memorization",
+    "companyName": "Tarteel Inc.",
+    "id": 6,
+    "description": "AI চালিত অ্যাপ যা আপনার তেলাওয়াত শুনে ভুল সংশোধন করে দেয় এবং হিফজ করতে সাহায্য করে।",
+    "size": 120,
+    "reviews": "30K",
+    "ratingAvg": 4.8,
+    "downloads": "1M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 6200 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "/images/hero_img.jpg",
+    "title": "Dua & Zikr",
+    "companyName": "Islamic Apps World",
+    "id": 7,
+    "description": "সকাল-সন্ধ্যার জিকির এবং বিভিন্ন বিপদে পড়ার দোয়াগুলো খুব সুন্দরভাবে সাজানো আছে এই অ্যাপটিতে।",
+    "size": 20,
+    "reviews": "12K",
+    "ratingAvg": 4.6,
+    "downloads": "500K",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "/images/hero_img.jpg",
+    "title": "Hadith Cloud",
+    "companyName": "Cloud IT",
+    "id": 8,
+    "description": "বুখারী, মুসলিমসহ প্রধান ৬টি হাদিস গ্রন্থের বিশাল সংগ্রহ। বিষয়ভিত্তিক হাদিস খোঁজার সুবিধা রয়েছে।",
+    "size": 35,
+    "reviews": "8K",
+    "ratingAvg": 4.7,
+    "downloads": "100K",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 5600 }
+    ]
+  },
+  {
+    "image": "/images/hero_img.jpg",
+    "title": "Athan: Prayer Times & Al Quran",
+    "companyName": "IslamicFinder",
+    "id": 9,
+    "description": "সঠিক নামাজের সময়, আজান এবং ইসলামিক ক্যালেন্ডার দেখার জন্য অন্যতম নির্ভরযোগ্য অ্যাপ।",
+    "size": 70,
+    "reviews": "150K",
+    "ratingAvg": 4.5,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 32000 },
+      { "name": "5 star", "count": 90000 }
+    ]
+  },
+  {
+    "image": "/images/hero_img.jpg",
+    "title": "Zakat Calculator",
+    "companyName": "Islamic Relief",
+    "id": 10,
+    "description": "আপনার সম্পদের সঠিক যাকাত হিসাব করার জন্য একটি সহজ এবং কার্যকর টুল। এতে যাকাতের নিয়মাবলিও দেওয়া আছে।",
+    "size": 12,
+    "reviews": "5K",
+    "ratingAvg": 4.6,
+    "downloads": "50K",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 3150 }
+    ]
+  },
+  {
+    "image": "/images/hero_img.jpg",
+    "title": "Islamic Quiz",
+    "companyName": "Knowledge Apps",
+    "id": 11,
+    "description": "খেলার ছলে ইসলাম সম্পর্কে জ্ঞান অর্জনের জন্য চমৎকার একটি অ্যাপ। এতে বিভিন্ন লেভেলের প্রশ্ন রয়েছে।",
+    "size": 25,
+    "reviews": "10K",
+    "ratingAvg": 4.4,
+    "downloads": "100K",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "image": "/images/hero_img.jpg",
+    "title": "Tasbeeh Counter",
+    "companyName": "Digital Apps",
+    "id": 12,
+    "description": "ডিজিটাল তসবিহ যা দিয়ে আপনি খুব সহজে জিকির গণনা করতে পারবেন। এটি আপনার ফোন লক থাকলেও কাজ করতে পারে।",
+    "size": 8,
+    "reviews": "25K",
+    "ratingAvg": 4.7,
+    "downloads": "1M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 17000 }
+    ]
+  },
+  {
+    "image": "/images/hero_img.jpg",
+    "title": "Halal Trip",
+    "companyName": "HalalTrip",
+    "id": 13,
+    "description": "ভ্রমণপিপাসু মুসলিমদের জন্য এটি সেরা অ্যাপ। এর মাধ্যমে হালাল খাবার এবং নামাজের জায়গা সহজে খুঁজে পাওয়া যায়।",
+    "size": 40,
+    "reviews": "7K",
+    "ratingAvg": 4.3,
+    "downloads": "500K",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "image": "/images/hero_img.jpg",
+    "title": "Hajj & Umrah Guide",
+    "companyName": "Islamic Education",
+    "id": 14,
+    "description": "হজ ও উমরাহ পালনের সম্পূর্ণ নিয়মাবলি এবং ম্যাপসহ বিস্তারিত গাইডলাইন এই অ্যাপে পাওয়া যাবে।",
+    "size": 55,
+    "reviews": "18K",
+    "ratingAvg": 4.8,
+    "downloads": "1M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 13000 }
+    ]
+  }
+]
